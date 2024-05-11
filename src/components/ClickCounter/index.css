@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.app-container {
+  background-color: #f1f5f8;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #2d3a35;
+  font-family: 'Roboto';
+  font-size: 50px;
+}
+span {
+  color: #c20a72;
+}
+.description {
+  font-size: 30px;
+  font-family: 'Roboto';
+}
+.button {
+  background-color: #007bff;
+  width: 100px;
+  height: 30px;
+  color: #ffffff;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  outline:none;
+}
